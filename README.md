@@ -1,1 +1,4 @@
-This is a readme file by Sam
+Fullname: Samuel Torreda
+Block: 1
+Email: sam_torreda@yahoo.com
+Github: czrest
